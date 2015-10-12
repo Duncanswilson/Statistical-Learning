@@ -1,0 +1,21 @@
+x=c(2,7,5)
+x
+y=seq(from=4, length=3, by=3) 
+y
+x+y
+x/y
+x[2]
+x^y
+x[2:3]
+x[-2]
+x[-1:-2]
+z=matrix(seq(
+Auto=read.csv("~/Rfiles/train.csv")
+dim(Auto)
+16*16
+Auto
+Auto[1,]
+class(Auto)
+summary(Auto)
+attach(Auto)
+search()
